@@ -18,7 +18,7 @@ I'm Lucas, a software developer passionate about building web solutions that mak
 - C# and .NET  
 
 ### 📫 How to reach me
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/lucasolivsantana)
+- LinkedIn: [lucasolivsantana](https://www.linkedin.com/in/lucasolivsantana)
 - Email: lucaso.santana123@gmail.com
 
 ---
