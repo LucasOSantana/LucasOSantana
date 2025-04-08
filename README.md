@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**LucasOSantana/LucasOSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas, a software developer passionate about building web solutions that make life easier.
 
-Here are some ideas to get you started:
+### 🚀 About me
+- 💻 Focused on web development
+- 🌱 Currently learning more about software architecture, and performance optimization
+- 🛠️ Always exploring new tools and technologies
+- 🎯 I enjoy solving real-world problems through code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- PHP | JavaScript | TypeScript  
+- Laravel | Codeigniter | Vue  
+- MySQL | PostgreSQL | MSSQL | Oracle
+- Git & GitHub | Docker 
+
+### 📚 Currently learning
+- C# and .NET  
+
+### 📫 How to reach me
+- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/lucasolivsantana)
+- Email: lucaso.santana123@gmail.com
+
+---
+
+*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
